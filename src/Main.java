@@ -10,7 +10,7 @@ public class Main {
         //  int a = 4 * (b + c - 1) / 2;
         // System.out.println(a);
 
-  //2 Задание(1)
+  //2 Задание часть 1
         //public static void main(String[] args) {
         // Scanner input = new Scanner(System.in);
         //  System.out.print("Введите число: ");
@@ -26,7 +26,7 @@ public class Main {
         // }
         // return p;
         //   }
-  //Задание 2(2)
+  //Задание 2 часть 2
         //     int n = 46;
         //  int step = (n / 10 ) + (n % 10);
         //   System.out.println("Сумма цифр равна:" +step);
